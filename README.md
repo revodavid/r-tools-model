@@ -9,3 +9,6 @@ Based on AIML50.
 
 Code from Azure ML tutorial
 
+## train-with-tensorflow
+
+Code from train-with-tensorflow vignette.
